@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+.title--text {
+  width: 90%;
+  max-width: 500px;
+  margin: 1em auto;
+}
+
 .gacha {
   width: 90%;
   max-width: 500px;
